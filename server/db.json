@@ -1,0 +1,215 @@
+{
+  "tag": [
+    {
+      "key": "1",
+      "tag": "nice"
+    },
+    {
+      "key": "2",
+      "tag": "developer"
+    },
+    {
+      "key": "3",
+      "tag": "teacher"
+    },
+    {
+      "key": "4",
+      "tag": "loser"
+    },
+    {
+      "key": "5",
+      "tag": "cool"
+    },
+    {
+      "key": "6",
+      "tag": "product manage"
+    },
+    {
+      "key": "7",
+      "tag": "mmm"
+    }
+  ],
+  "data": [
+    {
+      "key": "1",
+      "id": "1",
+      "name": "John",
+      "description": "32",
+      "time": "2022-07-13",
+      "tags": [
+        "nice",
+        "developer",
+        "product manage"
+      ]
+    },
+    {
+      "key": "2",
+      "id": "2",
+      "name": "Jim Green",
+      "description": "42",
+      "time": "2021-4-10",
+      "tags": [
+        "loser"
+      ]
+    },
+    {
+      "key": "3",
+      "id": "3",
+      "name": "Joe Black",
+      "description": "32",
+      "time": "2023-11-11",
+      "tags": [
+        "cool",
+        "teacher",
+        "developer"
+      ]
+    },
+    {
+      "key": "4",
+      "id": "4",
+      "name": "gxb",
+      "description": "aa",
+      "time": "2023-12-14",
+      "tags": [
+        "mmm"
+      ]
+    },
+    {
+      "key": "5",
+      "id": "5",
+      "name": "chine-backend",
+      "description": "hello",
+      "time": "2023-12-26",
+      "tags": [
+        "loser",
+        "cool"
+      ]
+    },
+    {
+      "key": "6",
+      "id": "6",
+      "name": "高小博",
+      "description": "",
+      "time": "2023-12-26",
+      "tags": [
+        "loser"
+      ]
+    }
+  ],
+  "en": {
+    "数据管理平台": "Data Management Platform",
+    "设置": "Settings",
+    "数据管理": "Data Management",
+    "标签管理": "Tag Management",
+    "名称：": "Name : ",
+    "请输入搜索名称": "Please enter a search name",
+    "标签：": "Tag : ",
+    "请选择标签": "Please select a tag",
+    "添加时间：": "Add Time : ",
+    "搜索": "Search",
+    "重置": "Reset",
+    "添加数据": "Add Data",
+    "名称不能为空": "Name cannot be empty",
+    "名称": "Name",
+    "描述": "Description",
+    "标签": "Tag",
+    "提交": "Submit",
+    "取消": "Cancel",
+    "编辑数据": "Edit Data",
+    "编辑": "Edit",
+    "删除": "Delete",
+    "添加": "Add",
+    "编号": "Number",
+    "添加时间": "Add Time",
+    "操作": "Operation",
+    "编辑标签": "Edit Tag",
+    "语言": "Language",
+    "确定": "Confirm",
+    "简体中文": "Simplified Chinese",
+    "英语": "English",
+    "日语": "Japanese",
+    "法语": "French",
+    "添加标签": "Add Tag",
+    "该标签已被使用，无法删除": "The tag is already in use and cannot be deleted",
+    "该标签已被使用，无法编辑": "The tag is already in use and cannot be edited",
+    "该标签已存在！": "The tag already exists!"
+  },
+  "fr": {
+    "数据管理平台": "Plateforme de gestion des données",
+    "设置": "Réglages",
+    "数据管理": "Gestion des données",
+    "标签管理": "Gestion des étiquettes",
+    "名称：": "Nom : ",
+    "请输入搜索名称": "Veuillez saisir le nom de recherche",
+    "标签：": "Étiquette : ",
+    "请选择标签": "Veuillez sélectionner une étiquette",
+    "添加时间：": "Heure d'ajout : ",
+    "搜索": "Recherche",
+    "重置": "Réinitialiser",
+    "添加数据": "Ajouter des données",
+    "名称不能为空": "Le nom ne peut pas être vide",
+    "名称": "Nom",
+    "描述": "Description",
+    "标签": "Étiquette",
+    "提交": "Soumettre",
+    "取消": "Annuler",
+    "编辑数据": "Modifier les données",
+    "编辑": "Modifier",
+    "删除": "Supprimer",
+    "添加": "Ajouter",
+    "编号": "Numéro d'identification",
+    "添加时间": "Heure d'ajout",
+    "操作": "Opération",
+    "编辑标签": "Modifier l'étiquette",
+    "语言": "Langue",
+    "确定": "Confirmer",
+    "简体中文": "Chinois simplifié",
+    "英语": "Anglais",
+    "日语": "Japonais",
+    "法语": "Français",
+    "添加标签": "Ajouter une étiquette",
+    "该标签已被使用，无法删除": "Cette étiquette est utilisée et ne peut pas être supprimée",
+    "该标签已被使用，无法编辑": "Cette étiquette est utilisée et ne peut pas être modifiée",
+    "该标签已存在！": "Cette étiquette existe déjà!"
+  },
+  "jp": {
+    "数据管理平台": "データ管理プラットフォーム",
+    "设置": "設定",
+    "数据管理": "データ管理",
+    "标签管理": "タグ管理",
+    "名称：": "名前：",
+    "请输入搜索名称": "検索名前を入力してください",
+    "标签：": "タグ：",
+    "请选择标签": "タグを選択してください",
+    "添加时间：": "追加時間：",
+    "搜索": "検索",
+    "重置": "リセット",
+    "添加数据": "データを追加する",
+    "名称不能为空": "名前は空にできません",
+    "名称": "名前",
+    "描述": "説明",
+    "标签": "タグ",
+    "提交": "提出する",
+    "取消": "キャンセル",
+    "编辑数据": "データを編集する",
+    "编辑": "編集",
+    "删除": "消去",
+    "添加": "追加する",
+    "编号": "シリアルナンバー",
+    "添加时间": "追加時間",
+    "操作": "操作する",
+    "编辑标签": "タグを編集する",
+    "语言": "言語",
+    "确定": "確定する",
+    "简体中文": "簡体字中国語",
+    "英语": "英語",
+    "日语": "日本語",
+    "法语": "フランス語",
+    "添加标签": "タグを追加する",
+    "该标签已被使用，无法删除": "このタグは使用されているため、削除できません",
+    "该标签已被使用，无法编辑": "このタグは使用されているため、編集できません",
+    "该标签已存在！": "このタグは既に存在します！"
+  },
+  "zh": "",
+  "lngsetting": "zh"
+}
